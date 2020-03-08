@@ -1,0 +1,6 @@
+jupyter
+numpy
+papermill
+scikit-learn
+scipy
+spacy
