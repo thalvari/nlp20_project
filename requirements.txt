@@ -1,6 +1,7 @@
 jupyter
 networkx
 numpy
+pandas
 papermill
 scikit-learn
 scipy
