@@ -1,6 +1,9 @@
 jupyter
+networkx
 numpy
 papermill
 scikit-learn
 scipy
+seaborn
 spacy
+umap-learn
