@@ -1,4 +1,5 @@
 jupyter
+matplotlib
 networkx
 numpy
 pandas
